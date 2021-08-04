@@ -3,9 +3,9 @@ Epitech B1 - C Graphical Programming
 ***
 # Fonctionnement
 
-- make
-- ./myhunter
-- makefclean
+1. make
+2. ./myhunter
+3. makefclean
 ***
 # Mouli Epitech
 
