@@ -1,17 +1,14 @@
-# Epitech_MyHunter
-
+# Epi_MyHunter
+Epitech B1 - C Graphical Programming
+***
 # Fonctionnement
 
 - make
 - ./myhunter
 - makefclean
+***
+# Mouli Epitech
 
-# Mouli Epitech => 100%
-
-minimal functions
-100% Passed
-
-Total: 2
-Passed: 2
-Crashed: 0
-Failed or skipped: 0
+|        Nom        |      %      | Total | Passed | Crashed | Failed or skipped |
+| :---------------: |:-----------:|:-----:|:------:|:-------:|:-----------------:|
+| minimal functions | 100% Passed |   2   |   2    |    0    |        0          |
